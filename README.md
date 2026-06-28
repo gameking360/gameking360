@@ -3,8 +3,8 @@
 
 ### Futuro desenvolvedor full Stack e apaixonado por resolver problemas
 
-- 🤖 I am student in FURB, in the bachelor's degree at Computer Science, first period
-  > (Brasil) Sou aluno da FURB, no bacharelado em Ciências da Computação, primeiro período
+- 🤖 I am student in FURB, in the bachelor's degree at Computer Science, fifth period
+  > (Brasil) Sou aluno da FURB, no bacharelado em Ciências da Computação, quinto período
 
 - 🤎 I love games, computer programs, learning new things, and more.
   > (Brasil) Eu amo jogos,programas de computador, aprender coisas novas e muito mais 
